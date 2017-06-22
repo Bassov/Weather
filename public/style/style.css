@@ -1,0 +1,29 @@
+.chart-numbers {
+    font-size: 12px;
+}
+
+/*.chart th.city {*/
+    /*width: 10%;*/
+/*}*/
+
+/*.chart th {*/
+    /*width: 30%;*/
+/*}*/
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
