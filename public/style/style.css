@@ -1,5 +1,5 @@
 .chart-numbers {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 /*.chart th.city {*/
@@ -16,7 +16,7 @@ td, th {
 }
 
 .input-group {
-    margin: 20px 0px;
+    margin: 15px 0px;
 }
 
 svg {
